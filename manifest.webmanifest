@@ -1,0 +1,9 @@
+{
+  "name": "ClickSing",
+  "short_name": "ClickSing",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0e0e10",
+  "theme_color": "#111111",
+  "description": "Lletres de concert editables per a 4L"
+}

@@ -1,0 +1,13 @@
+CLICKSING 1.0 DEMO
+
+Aplicació independent de ClickSet.
+Inclou només el repertori 4L amb lletres de prova editables.
+
+PER PUBLICAR:
+1. Descomprimeix el ZIP.
+2. Puja tots els fitxers de dins a la nova adreça/repositori.
+3. index.html ha de quedar a l'arrel.
+4. Quan estigui publicada, obre-la i edita cada lletra amb el botó “Editar”.
+
+IMPORTANT:
+Les lletres es guarden al dispositiu i navegador on les edites.
