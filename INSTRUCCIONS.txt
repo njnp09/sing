@@ -1,13 +1,13 @@
-CLICKSING 1.0 DEMO
+CLICKSING 1.1 — LLETRES 4L
 
-Aplicació independent de ClickSet.
-Inclou només el repertori 4L amb lletres de prova editables.
+Inclou les lletres i anotacions transcrites de les fotografies enviades.
+No s'han completat fragments que no apareixen al dossier.
 
-PER PUBLICAR:
+PER ACTUALITZAR:
 1. Descomprimeix el ZIP.
-2. Puja tots els fitxers de dins a la nova adreça/repositori.
-3. index.html ha de quedar a l'arrel.
-4. Quan estigui publicada, obre-la i edita cada lletra amb el botó “Editar”.
+2. Puja tots els fitxers a l'arrel del repositori GitHub “sing”.
+3. Confirma el commit.
+4. Cloudflare Pages farà el desplegament automàtic.
 
 IMPORTANT:
-Les lletres es guarden al dispositiu i navegador on les edites.
+Aquesta versió usa una clau de dades nova perquè apareguin les lletres actualitzades.
